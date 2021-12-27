@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://prabhatkhabar.startess.in/sitemap.xml
+Sitemap: https://babyshower.babyeee.com/sitemap.xml
